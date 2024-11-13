@@ -8,14 +8,14 @@ main:
   - name: Documentation
     url: docs/
     weight: 20
-  - name: Blog
-    url: blog/
+  - name: Lectures
+    url: lectures/
     weight: 30
-  - name: Showcase
-    url: showcase/
+  - name: Problems
+    url: problems/
     weight: 40
-  - name: Community
-    url: community/
+  - name: Textbook
+    url: textbook/
     weight: 50
 
 sidebar:
