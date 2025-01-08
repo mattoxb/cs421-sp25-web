@@ -1,7 +1,11 @@
 ---
 title: CS 421 Home
 ---
-## Welcome to CS 421!
+## Welcome to CS 421 (Spring 2025)!
+### Quick Links
+
+- [[Lecture Schedule]]
+- [[Syllabus]]
 
 This course is about programming languages.  As a result of taking this course, you can expect the following:
 
