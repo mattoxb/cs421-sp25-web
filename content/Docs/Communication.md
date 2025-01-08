@@ -30,20 +30,15 @@ Code: 5249
 There are hundreds of you, and only one instructor.  If everyone sends an email the system will bog down.  This is the purpose
 of campuswire and office hours.  However, there are situations where emailing the instructor is a good idea.
 
-- Asking for an extension for a reason covered by the student code.  You get an automatic 80% extension, but those are more for your
-  own time management.  They are not meant to address emergencies, etc.  If something happens please ask us to make arrangements.
+- Let the professor know of an emergency situation that prevents you from fully taking part in the class.  (We're talking about things covered by the student code, like hospital trips, family emergencies, and the like.)
 - If you miss your exam or know that you will miss it.  It happens, and we usually will give you another opportunity if you tell us right away.
-- You have a concern about your grade or performance in the course.  Please email the instructor and arrange a meeting if you think
-  you are falling behind.  We want you to succeed!
+- You have a concern about your grade or performance in the course.  Please email the instructor and arrange a meeting if you think you are falling behind.  We want you to succeed!
 - If you have something coming up like travel and need to make arrangements for missed work.
 
 ## Bad Reasons to Email the Prof
 
-You should not email asking for a policy to be changed just for you.  We sometimes have a student realize half way through the course
-that they are not doing well and then ask if they can turn in all the assignments they missed at the beginning of the semester.  We can't
-give you special privileges like that.  (Again, we are not talking about emergencies and pre-made special arrangements.)
+- Do not ask for extensions; all assignments have an automatic 80% extension to allow you a little flexibility in your time management.  If there's an emergency that goes beyond time management issues then do get in touch.
+- Do not email asking for a policy to be changed just for you.  We sometimes have a student realize half way through the course that they are not doing well and then ask if they can turn in all the assignments they missed at the beginning of the semester.  We can't give you special privileges like that.  (Again, we are not talking about emergencies and pre-made special arrangements.)
+- Do not ask for your grade to be rounded up at the end of the term.  I've been a fraction of a point on the wrong side of a grade cutoff myself, so I know how irritating it is, but in a class this size there will be dozens of students in the same situation. If we rounded grades, we're really just lowering the cutoff a bit, and now different students will be in the "just missed by 0.03 points" kind of situation.
 
-You should not ask for your grade to be rounded up at the end of the term.  I've been a fraction of a point on the wrong side of a
-grade cutoff myself, so I know how irritating it is, but in a class this size there will be dozens of students in the same situation.
-If we rounded grades, we're really just lowering the cutoff a bit, and now different students will be in the "just missed by 0.03 points"
-kind of situation.
+As a professor I can easily get 100 emails in a day; expect 24 hours for a reply during M-F, and do not expect a reply over the weekend (though I often answer emails then too.)

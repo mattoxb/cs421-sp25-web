@@ -1,6 +1,5 @@
 Here are some tricks to get the most out of this course.  Maybe you already heard some of these, but we hope some are new!
 
-
 ## What to Expect With Office Hours
 
 If you are more assertive than most you can walk up to the instructor after class (and he usually will hang out until
@@ -34,8 +33,6 @@ We won't try to stop you from using LLMs.  We can often tell if you did though:
 - You will get good scores on homeworks but be clueless when we talk to you in person... or when you go to take the exam.
 
 If you ask an LLM for the solution to a homework problem and paste it in, even if you can read it and understand it, your brain will decide that the information is not necessary and delete it for you.
-
-
 ## Letters of Recommendation
 
 If you have any thought that you might want to go to graduate school, you need to start thinking now who will write your recommendation
