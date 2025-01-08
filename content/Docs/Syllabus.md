@@ -112,7 +112,6 @@ requests.
 ## Grade Cutoffs
 
 We will use the standard 10 point per letter grade scale.
-you complete.
 
  | Grade | Points |
  |-------|--------|
@@ -131,6 +130,12 @@ you complete.
 
 Undergraduates are encouraged to do the extra project as well.  It will not affect your grade, but it will give me something
 to say if you happen to want a letter of recommendation later.
+
+## Code of Conduct
+
+Our class (and life in general!) will work better if we maintain professionalism and respect for each other.  We expect
+courteous and respectful communication at all times, as well as a committment to integerity and honesty in your work.
+
 
 ## Academic Integrity
 
