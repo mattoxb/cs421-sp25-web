@@ -84,13 +84,16 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     linkDistance,
     fontSize,
     opacityScale,
+    excludePageTags,
     removeTags,
     showTags,
     focusOnHover,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
-    Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
+    Object.entries<ContentDetails>(await fetchData)
+      .filter(([k, v]) => ! v.tags.some((tag: string) => excludePageTags.includes(tag))) // Exclude nodes with tags in excludePageTags
+      .map(([k, v]) => [
       simplifySlug(k as FullSlug),
       v,
     ]),

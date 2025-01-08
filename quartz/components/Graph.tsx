@@ -15,6 +15,7 @@ export interface D3Config {
   linkDistance: number
   fontSize: number
   opacityScale: number
+  excludePageTags: string[]
   removeTags: string[]
   showTags: boolean
   focusOnHover?: boolean
@@ -37,6 +38,7 @@ const defaultOptions: GraphOptions = {
     fontSize: 0.6,
     opacityScale: 1,
     showTags: true,
+    excludePageTags: [],
     removeTags: [],
     focusOnHover: false,
   },
@@ -51,6 +53,7 @@ const defaultOptions: GraphOptions = {
     fontSize: 0.6,
     opacityScale: 1,
     showTags: true,
+    excludePageTags: [],
     removeTags: [],
     focusOnHover: true,
   },
