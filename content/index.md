@@ -21,9 +21,9 @@ This course is about programming languages.  As a result of taking this course, 
 
 ## Getting Started
 
-- Join the [[Communication#CampusWire|CampusWire Forum]].  It is invite only to prevent spam, and invitations will go out on the morning of January 16th, 2025.
-	- If you registered before class started, you should have gotten an invite.  If you registered late,
-	  or did not get the invite, you need to email the instructor.
+- Join the [[Communication#CampusWire|CampusWire Forum]].  
+	- If you registered before class started, you should have gotten an invite.  These will go out January 16th and the day before classes start.  If you registered late, or did not get the invite, follow the link above for the join code.
 - Read the [[Syllabus]] so you know what to expect from this course.
+- Read the advice for [[How to Succeed in this Course]].  
 
 
