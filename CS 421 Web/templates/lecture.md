@@ -1,5 +1,0 @@
----
-tags:
-  - lecture
----
-Date:: 
