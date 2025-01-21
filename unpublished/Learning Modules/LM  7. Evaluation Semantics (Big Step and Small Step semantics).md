@@ -13,6 +13,6 @@ tags:
     - 7.2b -- Demonstrate knowledge of the Church Rosser theorem by selecting
         a system that has it.  (2 points)
 
-## Mastery Criterea
+## Mastery Criteria
   - Score 8 of the 10 available points.
 

@@ -3,7 +3,6 @@ tags:
   - noGraph
 ---
 
-
 | Week | Date                    | Lecture                                |
 | ---- | ----------------------- | -------------------------------------- |
 | 1    | [[January 21st, 2025]]  | [[Course Introduction]]                |

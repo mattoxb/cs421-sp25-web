@@ -1,3 +1,9 @@
+---
+id: Syllabus
+aliases: []
+tags: []
+---
+
 ## Location and Times
 
   - Course Title: Programming Languages and Compilers
@@ -5,16 +11,14 @@
   - Instructor: Mattox Beckman
   - Textbook: course notes
   - Office Hours: tba
+
 ## Official Description and Learning Goals
 
 The instructor's course goals are on the homepage, but here's the
 university description of the course:
 
->  structure of programming languages and their implementation. basic
->  language design principles; abstract data types; functional languages;
->  type systems; object-oriented languages. basics of lexing, parsing,
->  syntax-directed translation, semantic analysis, and code generation.
->
+>  structure of programming languages and their implementation. basic  language design principles; abstract data types; functional languages;  type systems; object-oriented languages. basics of lexing, parsing,  syntax-directed translation, semantic analysis, and code generation.
+
 >  course information: 3 undergraduate hours. 3 or 4 graduate hours.
 >
 >  prerequisite: cs 233 and cs 374.
@@ -22,72 +26,50 @@ university description of the course:
 Here are the official learning goals:
 
 >  - learn to program in a functional programming language
->  - understand the evaluation of programs in a functional programming
->    language
->  - be able to write a type checker / type inferencer given a formal
->    type system
->  - be able to write a lexer, and a parser using recursive-descent
->    parsing.
->  - program translation: be able to write a syntax-directed translator
->    from abstract syntax to intermediate representations
->  - recognize and use major methods of specification of dynamic
->    semantics
->  - write a interpreter based on a formal operational semantics of the
->    language
+>  - understand the evaluation of programs in a functional programming language
+>  - be able to write a type checker / type inferencer given a formal type system
+>  - be able to write a lexer, and a parser using recursive-descent parsing.
+>  - program translation: be able to write a syntax-directed translator from abstract syntax to intermediate representations
+>  - recognize and use major methods of specification of dynamic semantics
+>  - write a interpreter based on a formal operational semantics of the language
 
 ## Assignments and Grading
 
-This course will use the Coursera model for assignments.  There are 13 quizzes, to be released roughly once
-or twice a week.  These can be completed at any time, even up to finals week.  There are two midterm exams
-and one final exam.
+Here is the grading scheme for the course.  Note that 4 credit hour students have an extra project they must complete.
+
+| Category              | 3 Hour    | 4 Hour |
+| --------------------- | --------- | ------ |
+| In-class activities   | 5%        | 4%     |
+| Post-class activities | 10%       | 8%     |
+| Machine Problems      | 30%       | 24%    |
+| Midterm Exams         | 45%       | 36%    |
+| Final Exam            | n/a       | n/a    |
+| Semester Project      | n/a       | 20%    |
 
 ### Machine Problems
 
-Typically there will be about six machine problems, called
-*machine problems* (MPs). they will be released approximately one every
-two weeks. You are allowed to get help on the machine problems, but you
-need to cite your help.
+Typically there will be about six machine problems, called *machine problems* (MPs). they will be released approximately one every two weeks. You are allowed to get help on the machine problems, but you need to cite your help.
 
-The MPs are worth 30% collectively, and we drop the lowest score.
-
-<!-- The Student Code allows for [certain kind of absences](http://studentcode.illinois.edu/article1/part5/1-501/)
-to be excused as well. -->
+We will drop the lowest MP score.
 
 ### Exams
 
+There are three midterm exams.  These will all be proctored in the [[Computer Based Testing Facility]].
+
 One week before an exam, we will provide a practice exam that follows the same format for your studying pleasure.
 
-For Coursera students, you will be using ProctorU to take exams.  For P3/P4
-section students, you will use the college of engineering [computer-based
-testing facility](http://edu.cs.illinois.edu/cbtf) (CBTF) for its exams.  The
-policies of the CBTF are the policies of this course, and academic integrity
-infractions related to the CBTF are infractions in this course.
+Each exam will be broken into four or five *zones*.  Each zone represents a learning 
 
-If you have accommodations identified by the division of
-rehabilitation-education services (DRES) for exams, please take your
-letter of accommodation (LOA) to the CBTF proctors in person before you
-make your first exam reservation. The proctors will advise you as to
-whether the CBTF provides your accommodations or whether you will need
-to make other arrangements with your instructor.
+If you have accommodations identified by the division of rehabilitation-education services (DRES) for exams, please take your letter of accommodation (LOA) to the CBTF proctors in person before you make your first exam reservation. The proctors will advise you as to whether the CBTF provides your accommodations or whether you will need to make other arrangements with your instructor.
 
-Any problem with testing in the CBTF must be reported to CBTF staff at
-the time the problem occurs. **If you do not inform a proctor of a problem
-during the test then you forfeit all rights to redress.**
+Any problem with testing in the CBTF must be reported to CBTF staff at the time the problem occurs. **If you do not inform a proctor of a problem during the test then you forfeit all rights to redress.**
 
-The two midterm exams are worth 10% each, or 20% combined.
-The final exam is worth 20%.
+### Final Exam
+
 
 ### 4th Hour Project
 
-If you are a graduate student taking the course for 4 hours, then you
-need to complete [a project](/docs/project/).  This project is worth 20% of the course grade for those who
-need to do it. 
-
-### Quizzes
-
-Quizzes are meant to be "formative", i.e., a way for you to practice and learn the content.  There are 12 quizes, and you
-are allowed to drop two of them.  They will have recommended due dates, but they may be turned in without penalty any time
-before finals week.  They are worth 10% of your grade collectively.
+If you are a graduate student taking the course for 4 hours, then you need to complete [a project](/docs/project/).  This project is worth 20% of the course grade for those who need to do it.  (The other percentages are adjusted down accordingly.)
 
 ### Late Policy / Missing Exams
 
