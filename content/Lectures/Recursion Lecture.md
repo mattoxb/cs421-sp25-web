@@ -32,9 +32,9 @@ questions for five minutes or so.
 
 
 ## Videos
- - Basic Recursion
- - Induction
- - Tail Recursion
+ - [[Induction]]
+ - [[Basic Recursion]]
+ - [[Tail Recursion]]
 
 ## Activities
  - [[/assets/handouts/recursion-pogil.pdf|Recursion Activity Handout]]
