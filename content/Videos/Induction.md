@@ -2,4 +2,4 @@
 
 ## Slides
 - [[01.2.1-induction.pdf|Induction Slides (PDF)]]
-- [[01.2.1-induction-4up.pdf|Induction Slides (PDF, 4up)]]
+- [[01.2.1-induction-4up.pdf|Induction Slides (4up, PDF)]]

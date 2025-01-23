@@ -2,4 +2,4 @@
 
 ## Slides
 - [[01.2.3-tail-recursion.pdf|Tail Recursion (PDF)]]
-- [[01.2.3-tail-recursion-4up.pdf|Tail Recursion (4up, PDF]]
+- [[01.2.3-tail-recursion-4up.pdf|Tail Recursion (4up, PDF)]]
