@@ -13,9 +13,9 @@ representing expressions of a programming language internally, so we will make h
 
 We will also cover [[Pairs]], which we will use a lot, and [[Records]], which we will use infrequently.
 ## Videos
- - Product Types
- - Sum Types, Part 1
- - Sum Types, Part 2
+ - [[Product Types]]
+ -  [[Sum Types, Part 1]]
+ - [[Sum Types, Part 2]]
 ## Activitites
  - [[/assets/handouts/adt-pogil.pdf|Algebraic Data Type Activity (pdf)]]
 ## Further Reading

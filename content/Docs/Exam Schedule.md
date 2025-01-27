@@ -1,3 +1,4 @@
+
 | Exam           | Start Date              | End Date            | Registration Open       |
 | -------------- | ----------------------- | ------------------- | ----------------------- |
 | [[Midterm 1]]  | [[February 26th, 2025]] | [[March 2nd, 2025]] | [[February 22nd, 2025]] |

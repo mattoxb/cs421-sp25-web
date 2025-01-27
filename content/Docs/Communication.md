@@ -12,10 +12,10 @@ You are probably familiar with it.  This is a general question-and-answer forum.
 
 The forum is the place to go for questions about content and for setting up your coding environment.  It *might* be okay for code related questions, but these are better handled in office hours.
 ### Etiquette
-- Of course, we expect and require everyone to follow the [[Syllabus#Code of Conduct|Code of Conduct]].
+- Of course, we expect and require everyone to follow the [[Syllabus#Code of Conduct|Code of Conduct]].  (Short version: don't be a jerk.)
 - The strength of a forum is that if you have a question, odds are strong that others have the same question.  Even better, there's always a few students in the class who get a bigger adrenaline rush answering questions on the forum than most people get from 1000 likes on TikTok.   Therefore you should do these three things:
-	- **Always search before posting** 
-	- **Make your post public**  --- You can be anonymous to the other classmates if you want.
+	- **Always search before posting** --- Be sure your question hasn't already been asked or answered.
+	- **Make your post public**  --- If you are not asking about your grades or something that needs to be kept private, you **must** make your post public.  A forum loses its purpose for existing if you make a question visible only to the instructors, and the TAs are instructed to not answer such posts.  You can be anonymous to the other classmates if you want.  
 	- **Be clear about what you are asking** 
 		- If you are getting an error describe best you can what you did before the error happened and what the error message was.
 		- If you are having trouble with a homework or MP, tell us exactly which question.
