@@ -37,14 +37,14 @@ Here are the official learning goals:
 
 Here is the grading scheme for the course.  Note that 4 credit hour students have an extra project they must complete.
 
-| Category              | 3 Hour    | 4 Hour |
-| --------------------- | --------- | ------ |
-| In-class activities   | 5%        | 4%     |
-| Post-class activities | 10%       | 8%     |
-| Machine Problems      | 30%       | 24%    |
-| Midterm Exams         | 45%       | 36%    |
-| Final Exam            | n/a       | n/a    |
-| Semester Project      | n/a       | 20%    |
+| Category              | 3 Hour | 4 Hour |
+| --------------------- | ------ | ------ |
+| In-class activities   | 5%     | 4%     |
+| Post-class activities | 10%    | 8%     |
+| Machine Problems      | 35%    | 28%    |
+| Midterm Exams         | 50%    | 40%    |
+| Final Exam            | n/a    | n/a    |
+| Semester Project      | n/a    | 20%    |
 
 ### Machine Problems
 
