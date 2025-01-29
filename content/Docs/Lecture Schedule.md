@@ -1,14 +1,17 @@
 ---
+id: Lecture Schedule
+aliases: []
 tags:
   - noGraph
 ---
+
 You may also be interested in the [[Exam Schedule]].
 
-| Week | Date                    | Lecture                                |
+| Week | Date                    | Lecture / Capture                      |
 | ---- | ----------------------- | -------------------------------------- |
 | 1    | [[January 21st, 2025]]  | [[Course Introduction]]                |
 |      | [[January 23rd, 2025]]  | [[Recursion Lecture]]                  |
-| 2    | [[January 28th, 2025]]  | [[Algebraic Data Types Lecture]]       |
+| 2    | [[January 28th, 2025]]  | [[Algebraic Data Types Lecture]]  [Capture](https://mediaspace.illinois.edu/media/t/1_7greez68) |
 |      | [[January 30th, 2025]]  | [[Higher Order Functions Lecture]]     |
 | 3    | [[February 4th, 2025]]  | [[Interpreters I Lecture]]             |
 |      | [[February 6th, 2025]]  | [[Big-Step Semantics Lecture]]         |

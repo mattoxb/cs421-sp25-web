@@ -29,8 +29,8 @@ map f (x:xs) = f x : map f xs
 ```
 
 ## Videos
- - Introduction
- - Map and Foldr
+ - [[Introduction to Higher Order Functions]]
+ - [[Map and Foldr]]
  
 ## Handouts
  - [[/assets/handouts/hofs-pogil.pdf|Higher Order Functions Activity (pdf}]]
