@@ -36,10 +36,10 @@ tags: []
 
 ### Thursday
 
-| Time | Staff | Location |
-| ---- | ----- | -------- |
-| 9:00 AM - 10:00 AM | Aakash | Zoom |
-| 5:00 PM - 6:00 PM | Aakash | Siebel |
+| Time              | Staff  | Location |
+| ----------------- | ------ | -------- |
+|                   |        |          |
+| 4:00 PM - 6:00 PM | Aakash | Siebel   |
 
 ### Friday
 
