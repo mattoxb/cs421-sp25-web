@@ -1,0 +1,1 @@
+Meeting location: Illini Center, 200 S. Wacker
