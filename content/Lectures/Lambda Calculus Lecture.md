@@ -15,11 +15,11 @@ in it.
 
 ## Videos
 
- - Lambda Calculus
- - Lambda Calculus Examples
- - Evaluation Order
- - Church Numerals
- - The Y Combinator
+ - [[Lambda Calculus]]
+ - [[Lambda Calculus Examples]]
+ - [[Evaluation Order]]
+ - [[Church Numerals]]
+ - [[The Y-Combinator]]
  
 ## Handouts
 
