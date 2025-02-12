@@ -13,7 +13,7 @@ This will be a set of mini-lectures and code demonstrations.
 
 ## Videos
 
-- Interpreters II
+-  [[Interpreters 2]]
 
 ## Handouts
 - [[closures-pogil.pdf|Closures Activity (PDF)]]
