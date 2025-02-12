@@ -20,7 +20,7 @@ could have invented monads*, is a refreshing change, and I recommend you
 read it, even before watching my video.
 
 ## Videos
- - Monads
+ - [[Monads]]
  
 ## Further Reading
  - [The Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) Yes, this was linked from the Typeclass lecture.

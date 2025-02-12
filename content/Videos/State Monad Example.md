@@ -1,0 +1,4 @@
+
+<iframe id="kmsembed-1_n6qe8s5m" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_n6qe8s5m/uiConfId/55779922/pbc/113245372/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="State Monad Examples"></iframe>
+## Slides
+- [[06.2.2-state-monad-example.pdf|State Monad Example (PDF)]]

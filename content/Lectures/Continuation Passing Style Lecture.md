@@ -19,8 +19,8 @@ These may well seem abstract to you, but you will recognize them if you ever pro
 languages like <Sc>Javascript</Sc>, where they are usually called "callbacks".
 
 ## Videos
- - CPS
- - The CPS Transform
+ - [[Continuation Passing Style]]
+ - [[The CPS Transform]]
  
 ## Handouts
  - [[/assets/handouts/cps-pogil.pdf|CPS Activity (PDF)]]

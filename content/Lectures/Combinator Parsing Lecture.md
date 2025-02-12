@@ -15,8 +15,7 @@ a natural syntax.
 
 
 ## Videos
- - Combinator Parsing
- - Combinator Parsing Activity
+ - [[Combinator Parsing]]
 ## Handouts
  - [[combinator-parsing-pogil.pdf|Combinator Parsing Activity (PDF)]]
 ## Further Reading

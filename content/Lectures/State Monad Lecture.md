@@ -11,8 +11,8 @@ The purpose of developing monads in programming languages was to be able to hand
 Here is the state monad!
 
 ## Videos
- - The State Monad
- - State Monad Example
+ - [[State Monad]]
+ - [[State Monad Example]]
  
 ## Handouts
  - [[state-monad-tps.pdf|State Monad Activity (PDF)]]

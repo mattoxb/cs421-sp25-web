@@ -11,6 +11,6 @@ possibilities by committing a search to whatever decisions have already been
 made.  It can also prevent the destruction of innocent telescopes.
 
 ## Videos
- - Prolog's Cut Operator
+ - [[Prolog's Cut Operator]]
 ## Handouts
  - [[prolog-cut-pogil.pdf|Prolog Cut Activity (PDF)]]

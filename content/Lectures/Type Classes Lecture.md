@@ -12,8 +12,8 @@ discuss some of the different approaches you will see in different languages, an
 you to define the higher order function `map` for any type you want.
 
 ## Videos
- - Type Classes
- - Functors and Applicatives
+ - [[Type Classes]]
+ - [[Functors and Applicative]]
 
 ## Handouts
  - [[type-classes-pogil.pdf|Type Classes activity (PDF)]]

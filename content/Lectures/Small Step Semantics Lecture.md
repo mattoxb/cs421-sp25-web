@@ -14,7 +14,7 @@ to describe the meaning of a program.
 One very important concept that comes up with this form is the *Church-Rosser theorem*.
 
 ## Videos
- - Small Step Semantics
- - The Church-Rosser Property
+ - [[Small Step Semantics]]
+ - [[The Church-Rosser Property]]
 ## Handouts
  - [[small-step-semantics-pogil.pdf|Small Step Semantics Activity (PDF)]]

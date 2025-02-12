@@ -10,6 +10,6 @@ It is used for pattern matching, semantics, higher order type checking, and ther
 an entire programming language that uses unification to drive computation.
 
 ## Videos
- - Unification
+ - [[Unification]]
 ## Handouts
  - [[unification-pogil.pdf|Unification Activity (PDF)]]

@@ -11,7 +11,7 @@ semantics helps us understand the conditions under which a
 program will give us the correct answer.
 
 ## Videos
- - Loop Invariants
+ - [[Loop Invariants]]
 ## Further Reading
  - [EWD 264 "On Understanding Programs"](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD02xx/EWD264)  One of the foundational
    documents on formally proving programs correct.

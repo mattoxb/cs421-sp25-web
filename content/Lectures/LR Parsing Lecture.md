@@ -12,7 +12,7 @@ to be effective using them you really need to understand how they work.
 
 
 ## Videos
- - LR Parsing
+ - [[LR Parsing]]
 ## Activities
  - [[lr-parsing-pogil.pdf|Parsing Activity (PDF)]]
 ## Further Reading

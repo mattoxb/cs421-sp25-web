@@ -5,11 +5,10 @@ tags:
 Date:: [[April 15th, 2025]]
 ## Synopsis
 
-This is a continuation from the last lecture.  Now we want to
-be able to give types for functions like `id :: a -> a`.
+This is a continuation from the last lecture.  Now we want to be able to give types for functions like `id :: a -> a`.
 
 
 ## Videos
- - Polytype Semantics
+ - [[Polytype Semantics]]
 ## Handouts
  - [[polytype-activity-pogil.pdf|Polytype Activity (POGIL version)]]

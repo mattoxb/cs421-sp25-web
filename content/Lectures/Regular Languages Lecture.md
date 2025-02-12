@@ -12,8 +12,8 @@ They correspond to right linear gramamrs.
 A very useful application of this is in lexing and searching.
 
 ## Videos
- - Regular Languages
- - Right Linear Grammars
+ - [[Regular Languages]]
+ - [[Right Linear Grammars]]
 ## Handouts
  - [[right-linear-grammar-pogil.pdf|Regular Expression Activity (POGIL)]]
 ## Further Reading

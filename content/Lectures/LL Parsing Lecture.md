@@ -11,8 +11,8 @@ with the language you had in mind!
 
 
 ## Videos
- - LL Parsing
- - Fixing non-LL Grammars
+ - [[LL Parsing]]
+ - [[Fixing Non-LL Grammars]]
 ## Activities
  - [[ll-parsing-pogil.pdf|LL Parsing Activity (PDF)]]
 ## Further Reading

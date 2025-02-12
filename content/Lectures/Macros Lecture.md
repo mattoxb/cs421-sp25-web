@@ -11,7 +11,7 @@ a few ways to do that here.
 
 
 ## Videos
- - Macros
+ - [[Macros]]
 ## Handouts
  - [[macros-activity.pdf|Macros Activity (PDF)]]
 ## Further Reading

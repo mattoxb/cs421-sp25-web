@@ -18,7 +18,5 @@ In this lecture the professor will introduce the course. You will learn:
 ### Slides
   - [[assets/slides/course-introduction.pdf|Course Introduction Slides (pdf)]]
   - [[Syllabus]] All your questions about how the course is run should be in here.
-  - Video  (Link posted after class)
 ### In Class Activities
   - [[euler-pogil.pdf|Learn Haskell with Project Euler]]
-  - Video Walkthrough (posted after class)

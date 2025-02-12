@@ -15,9 +15,9 @@ This "mathematical description" is called a *grammar*, and there are a lot of th
 you will need to understand about them to make them useful to you.
 
 ## Videos
- - Introduction to Grammars
- - First Sets
- - Follow Sets
+ - [[Introduction to Grammars]]
+ - [[FIRST Sets]]
+ - [[FOLLOW Sets]]
 
 ## Handouts
 

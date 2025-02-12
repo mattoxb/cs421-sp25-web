@@ -11,7 +11,7 @@ familiar with it in case you meet such problems in the future.
 
 
 ## Videos
- - Prolog
+ - [[Prolog]]
 ## Handouts
  - [[prolog-pogil.pdf|Prolog Activity (POGIL version, pre-pandimic)]]
 ## Interactive Shells
