@@ -2,6 +2,10 @@
 title: CS 421 Home
 ---
 ## Welcome to CS 421 (Spring 2025)!
+
+### Page has moved to https://cs421-sp25-web.pages.dev
+Cloudflare has a much more generous bandwidth allotment! 
+
 ### Quick Links
 
 - [[Lecture Schedule]]
