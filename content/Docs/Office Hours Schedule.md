@@ -43,8 +43,14 @@ tags: []
 
 ### Friday
 
-| Time | Staff | Location |
-| ---- | ----- | -------- |
-| 11:00 AM - 12:00 PM | [[Siheng Pan]] | Siebel | 
-| 12:30 - 1:30 PM: | [[Krushank Bayyapu]] | Zoom |
-| 3:30 - 4:30 PM: | [[Maanav Agrawal]] | Siebel |
+| Time                | Staff                | Location |     |
+| ------------------- | -------------------- | -------- | --- |
+| 11:00 AM - 12:00 PM | [[Siheng Pan]]       | Siebel   |     |
+| 12:30 - 1:30 PM:    | [[Krushank Bayyapu]] | Zoom     |     |
+| 3:30 - 4:30 PM:     | [[Maanav Agrawal]]   | Siebel   |     |
+
+## Saturday
+
+| Time           | Staff            | Location | Notes<br>                                                |
+| -------------- | ---------------- | -------- | -------------------------------------------------------- |
+| 11:00 -- 12:00 | [[Aakash Kumar]] | Zoom     | (For City Scholars mainly; may be moved on short notice) |
