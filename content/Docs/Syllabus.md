@@ -46,9 +46,19 @@ Here is the grading scheme for the course.  Note that 4 credit hour students hav
 | Final Exam            | n/a    | n/a    |
 | Semester Project      | n/a    | 20%    |
 
+### In-Class Activities (POGILs)
+
+During class you will work on an activity with other classmates.  These are graded by participation.  You can think of it as taking attendance if you like, but working on the questions together is a core part of the educational process, and no option will be given for completing them alone.  These are worth 5%.  If you do them during class you will get extra credit, making them worth 7%.  Solo makeup is typically not allowed; we can excuse you from the activity for reasons covered by the student code.
+
+These are due in one week with an automatic 2 day extension for 80% credit.
+### After-class Activities
+
+Basically these are homework.  You will solve a problem according to the methods discussed in class.  These are worth 10%.  These are due in one week with an automatic 2 day extension for 80% credit.
 ### Machine Problems
 
 Typically there will be about six machine problems, called *machine problems* (MPs). they will be released approximately one every two weeks. You are allowed to get help on the machine problems, but you need to cite your help.
+
+These will be released on Tuesdays and due the Monday 13 days later.  There is an automatic one week extension for 80% credit.
 
 We will drop the lowest MP score.
 

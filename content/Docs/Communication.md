@@ -37,7 +37,7 @@ of campuswire and office hours.  However, there are situations where emailing th
 
 ## Bad Reasons to Email the Prof
 
-- Do not ask for extensions; all assignments have an automatic 80% extension to allow you a little flexibility in your time management.  If there's an emergency that goes beyond time management issues then do get in touch.
+- Do not ask for extensions; all assignments have an automatic 80% extension to allow you a little flexibility in your time management.  Daily activity type things will get two days of auto-extension, and MPs will get one week.  If there's an emergency that goes beyond time management issues then do get in touch.
 - Do not email asking for a policy to be changed just for you.  We sometimes have a student realize half way through the course that they are not doing well and then ask if they can turn in all the assignments they missed at the beginning of the semester.  We can't give you special privileges like that.  (Again, we are not talking about emergencies and pre-made special arrangements.)
 - Do not ask for your grade to be rounded up at the end of the term.  I've been a fraction of a point on the wrong side of a grade cutoff myself, so I know how irritating it is, but in a class this size there will be dozens of students in the same situation. If we rounded grades, we're really just lowering the cutoff a bit, and now different students will be in the "just missed by 0.03 points" kind of situation.
 

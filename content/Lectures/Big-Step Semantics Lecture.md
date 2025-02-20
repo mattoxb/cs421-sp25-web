@@ -13,6 +13,5 @@ This is our first lecture on semantics. We will cover several forms of semantics
 
 - [[Introduction to Semantics]]
 - [[Big Step Semantics]]
-
 ## Handouts
 - [[/assets/handouts/big-step-rules.pdf|Big Step Semantics Rules (pdf)]]
