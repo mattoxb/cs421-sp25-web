@@ -51,9 +51,11 @@ Here is the grading scheme for the course.  Note that 4 credit hour students hav
 During class you will work on an activity with other classmates.  These are graded by participation.  You can think of it as taking attendance if you like, but working on the questions together is a core part of the educational process, and no option will be given for completing them alone.  These are worth 5%.  If you do them during class you will get extra credit, making them worth 7%.  Solo makeup is typically not allowed; we can excuse you from the activity for reasons covered by the student code.
 
 These are due in one week with an automatic 2 day extension for 80% credit.
+
+We realize that sometimes things come up that make you miss class, so we will drop 3 of the scores.
 ### After-class Activities
 
-Basically these are homework.  You will solve a problem according to the methods discussed in class.  These are worth 10%.  These are due in one week with an automatic 2 day extension for 80% credit.
+Basically these are homework.  You will solve a problem according to the methods discussed in class.  These are worth 10%.  These are due in one week with an automatic 2 day extension for 80% credit.  These are very important to complete if you are going to learn the material, therefore there will be no drops.
 ### Machine Problems
 
 Typically there will be about six machine problems, called *machine problems* (MPs). they will be released approximately one every two weeks. You are allowed to get help on the machine problems, but you need to cite your help.
