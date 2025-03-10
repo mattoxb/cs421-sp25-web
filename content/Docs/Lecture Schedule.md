@@ -40,7 +40,7 @@ Lecture capture will be on [MediaSpace](https://mediaspace.illinois.edu/channel/
 | 12   | [[April 15th, 2025]]    | [[Polytype Semantics Lecture]]         |
 |      | [[April 17th, 2025]]    | [[Prolog Lecture]]                     |
 | 13   | [[April 22nd, 2025]]    | [[Prolog's Cut Operator Lecture]]      |
-|      | [[April 24th, 2025]]    | [[Prolog Applications Lecture]]        |
-| 14   | [[April 29th, 2025]]    | [[Variables Lecture]]                  |
-|      | [[May 1st, 2025]]       | [[Macros Lecture]]                     |
+|      | [[April 24th, 2025]]    | [[Variables Lecture]]                  |
+| 14   | [[April 29th, 2025]]    | [[Macros Lecture]]                     |
+|      | [[May 1st, 2025]]       | **No Class**                           |
 
