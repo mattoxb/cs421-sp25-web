@@ -18,3 +18,4 @@ One very important concept that comes up with this form is the *Church-Rosser th
  - [[The Church-Rosser Property]]
 ## Handouts
  - [[small-step-semantics-pogil.pdf|Small Step Semantics Activity (PDF)]]
+ - [[small-step-rules.pdf|Small Step Rules (PDF)]]
