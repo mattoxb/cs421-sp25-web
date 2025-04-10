@@ -35,9 +35,9 @@ Lecture capture will be on [MediaSpace](https://mediaspace.illinois.edu/channel/
 |      | [[March 27th, 2025]]    | [[Small Step Semantics Lecture]]       |
 | 10   | [[April 1st, 2025]]     | [[Unification Lecture]]                |
 |      | [[April 3rd, 2025]]     | [[Hoare Semantics Lecture]]            |
-| 11   | [[April 8th, 2025]]     | [[Loop Invariants Lecture]]            |
-|      | [[April 10th, 2025]]    | [[Monotype Semantics Lecture]]         |
-| 12   | [[April 15th, 2025]]    | [[Polytype Semantics Lecture]]         |
+| 11   | [[April 8th, 2025]]     | [[Monotype Semantics Lecture]]]        |
+|      | [[April 10th, 2025]]    | [[Polytype Semantics Lecture]]         |
+| 12   | [[April 15th, 2025]]    |                                        |
 |      | [[April 17th, 2025]]    | [[Prolog Lecture]]                     |
 | 13   | [[April 22nd, 2025]]    | [[Prolog's Cut Operator Lecture]]      |
 |      | [[April 24th, 2025]]    | [[Variables Lecture]]                  |
