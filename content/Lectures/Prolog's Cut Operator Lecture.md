@@ -2,7 +2,7 @@
 tags:
   - lecture
 ---
-Date:: [[April 22nd, 2025]]
+Date:: [[April 17th, 2025]]
 ## Synopsis
 
 One problem with <Sc>Prolog</Sc> is that it can try too many things to satisfy a

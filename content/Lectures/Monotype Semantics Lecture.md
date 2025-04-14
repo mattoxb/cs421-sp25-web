@@ -2,7 +2,7 @@
 tags:
   - lecture
 ---
-Date:: [[April 10th, 2025]]
+Date:: [[April 8th, 2025]]
 ## Synopsis
 
 This is the first of a two part series on typing semantics.  Semantics can do

@@ -2,7 +2,7 @@
 tags:
   - lecture
 ---
-Date:: [[May 1st, 2025]]
+Date:: [[April 29th, 2025]]
 ## Synopsis
 
 One of the more powerful concepts in programming is the idea
