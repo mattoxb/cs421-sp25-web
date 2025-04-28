@@ -18,11 +18,10 @@ tags: []
 
 ### Tuesday
 
-| Time | Staff | Location |
-| ---- | ----- | -------- |
-| 1:00 PM - 3:00 PM | [[Cody Rivera]] | Siebel |
-| 2:30 PM - 3:30 PM | [[Shams Alshabani]] | Zoom |
-| 3:30 PM - 4:30 PM: | [[Krushank Bayyapu]] | Siebel |
+| Time               | Staff                | Location |
+| ------------------ | -------------------- | -------- |
+| 2:30 PM - 3:30 PM  | [[Shams Alshabani]]  | Zoom     |
+| 3:30 PM - 4:30 PM: | [[Krushank Bayyapu]] | Siebel   |
 
 ### Wednesday
 
@@ -38,7 +37,7 @@ tags: []
 
 | Time              | Staff  | Location |
 | ----------------- | ------ | -------- |
-|                   |        |          |
+| 1:00 PM - 3:00 PM  | [[Cody Rivera]]      | Siebel   |
 | 4:00 PM - 6:00 PM | Aakash | Siebel   |
 
 ### Friday
