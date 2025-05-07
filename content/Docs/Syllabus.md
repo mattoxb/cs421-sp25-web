@@ -70,7 +70,8 @@ There are three midterm exams.  These will all be proctored in the [[Computer Ba
 
 One week before an exam, we will provide a practice exam that follows the same format for your studying pleasure.
 
-Each exam will be broken into four or five *zones*.  Each zone represents a learning 
+Each exam will be broken into four or five *zones*.  Each zone represents a learning goal, and is waited equally in your grade report.
+(So a zone with 20 points and a zone with 10 points will both have the same weight as far as determining grades.)
 
 If you have accommodations identified by the division of rehabilitation-education services (DRES) for exams, please take your letter of accommodation (LOA) to the CBTF proctors in person before you make your first exam reservation. The proctors will advise you as to whether the CBTF provides your accommodations or whether you will need to make other arrangements with your instructor.
 
