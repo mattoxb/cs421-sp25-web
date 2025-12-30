@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[February 13th, 2025]]
 ## Synopsis
 
 Today will be a followup to the [[Interpreters I Lecture]] lecture.

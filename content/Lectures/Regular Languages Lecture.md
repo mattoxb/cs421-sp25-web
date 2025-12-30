@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[March 6th, 2025]]
 ## Synopsis
 
 Regular languages and languages that can be recognized

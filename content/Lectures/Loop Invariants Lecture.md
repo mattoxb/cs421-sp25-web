@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[April 8th, 2025]]
 ## Synopsis
 
 The other semantics we have looked at enable us to understand

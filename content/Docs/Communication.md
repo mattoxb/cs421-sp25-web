@@ -1,16 +1,27 @@
 One of the more difficult things needed to run a class of hundreds of students is managing communication.  Fortunately it's easy to manage if we use the technology efficiently.  There are three primary ways of communicating with course staff:
 - Office hours
 - CampusWire
+- Discord
 - Email
 
 ## Office Hours
 
-We will have an [[Office Hours Schedule]] updated on the second week of class.  It's best if you arrive toward the beginning of the session.
+We will have an [[Office Hours Schedule]] updated on the second week of class.  It's best if you arrive toward the beginning of the session.  Please see our guide to [[How to Succeed in this Coures]] for more details about office hours.
+
 ## CampusWire
 
-You are probably familiar with it.  This is a general question-and-answer forum.  You may ask questions here and remain anonymous to your fellow students, but the course staff will see your real name.  We will also make urgent announcements here (e.g. if we have to cancel class); though we will copy that message via email.
+You are probably familiar with it.  This is a general question-and-answer forum.  You may ask questions here and remain
+anonymous to your fellow students, but the course staff will see your real name.  We will also make urgent announcements
+here (e.g. if we have to cancel class); though we will copy that message via email.
 
 The forum is the place to go for questions about content and for setting up your coding environment.  It *might* be okay for code related questions, but these are better handled in office hours.
+
+## Discord
+
+This semester we will try using a Discord channel.  It has overlapping functionality with CampusWire, but some people prefer one to the other.
+
+The staff will also monitor Discord during the lecture times to make it easier to ask questions in class.
+
 ### Etiquette
 - Of course, we expect and require everyone to follow the [[Syllabus#Code of Conduct|Code of Conduct]].  (Short version: don't be a jerk.)
 - The strength of a forum is that if you have a question, odds are strong that others have the same question.  Even better, there's always a few students in the class who get a bigger adrenaline rush answering questions on the forum than most people get from 1000 likes on TikTok.   Therefore you should do these three things:
@@ -19,16 +30,21 @@ The forum is the place to go for questions about content and for setting up your
 	- **Be clear about what you are asking** 
 		- If you are getting an error describe best you can what you did before the error happened and what the error message was.
 		- If you are having trouble with a homework or MP, tell us exactly which question.
+	- **Always search before posting** --- Yeah, it's a repeat.  You can guess for yourself why we feel the need to say this twice.
 - Don't post code.  If you have code questions, you should use office hours for that.
-### Joining
+
+### Joining Campuswire
 
 Invitation Link: https://campuswire.com/p/GD13D08D5
 Code: 5249
 
+### Joining Discord
+
+
 ## Good Reasons to Email the Prof
 
 There are hundreds of you, and only one instructor.  If everyone sends an email the system will bog down.  This is the purpose
-of campuswire and office hours.  However, there are situations where emailing the instructor is a good idea.
+of CampusWire, Discord, and office hours.  However, there are situations where emailing the instructor is a good idea.
 
 - Let the professor know of an emergency situation that prevents you from fully taking part in the class.  (We're talking about things covered by the student code, like hospital trips, family emergencies, and the like.)
 - If you miss your exam or know that you will miss it.  It happens, and we usually will give you another opportunity if you tell us right away.

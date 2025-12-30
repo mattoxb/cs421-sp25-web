@@ -6,7 +6,7 @@ If you've never used GitHub before, don't worry; you don't need to know anything
 
 Please note that **this is a multi-step process**!  If you do not follow **all** the steps then nothing will happen.
 
-1. Access the [magic repository creator link](https://edu.cs.illinois.edu/create-gh-repo/sp25_cs421) to get started. You will see a web page with the following content.  (The images below are for CS 110 Spring 2024, but when you follow the link it should say CS 421 Spring 2025.   We don't want to have to redownload the images each semester.) 
+1. Access the [magic repository creator link](https://edu.cs.illinois.edu/create-gh-repo/sp26_cs421) (note: as of this moment the link is not ready) to get started. You will see a web page with the following content.  (The images below are for CS 110 Spring 2024, but when you follow the link it should say CS 421 Spring 2026.   We don't want to have to redownload the images each semester.) 
 
    ![[log_in_to_GitHub.png]]
 

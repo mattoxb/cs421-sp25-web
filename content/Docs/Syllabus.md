@@ -7,15 +7,14 @@ tags: []
 ## Location and Times
 
   - Course Title: Programming Languages and Compilers
-  - Dates: January 21 to May 8.
+  - Dates: January 20 to May 7.
   - Instructor: Mattox Beckman
-  - Textbook: course notes
+  - Textbook: online textbook
   - Office Hours: tba
 
 ## Official Description and Learning Goals
 
-The instructor's course goals are on the homepage, but here's the
-university description of the course:
+The instructor's course goals are on the homepage, but here's the university description of the course:
 
 >  structure of programming languages and their implementation. basic  language design principles; abstract data types; functional languages;  type systems; object-oriented languages. basics of lexing, parsing,  syntax-directed translation, semantic analysis, and code generation.
 
@@ -53,16 +52,18 @@ During class you will work on an activity with other classmates.  These are grad
 These are due in one week with an automatic 2 day extension for 80% credit.
 
 We realize that sometimes things come up that make you miss class, so we will drop 3 of the scores.
+
 ### After-class Activities
 
-Basically these are homework.  You will solve a problem according to the methods discussed in class.  These are worth 10%.  These are due in one week with an automatic 2 day extension for 80% credit.  These are very important to complete if you are going to learn the material, therefore there will be no drops.
+Basically these are homework.  You will solve a set of problems according to the methods discussed in class.  These are worth 10%.  These are due in one week with an automatic 2 day extension for 80% credit.  These are very important to complete if you are going to learn the material, therefore there will be no drops.
+
 ### Machine Problems
 
 Typically there will be about six machine problems, called *machine problems* (MPs). they will be released approximately one every two weeks. You are allowed to get help on the machine problems, but you need to cite your help.
 
 These will be released on Tuesdays and due the Monday 13 days later.  There is an automatic one week extension for 80% credit.
 
-We will drop the lowest MP score.
+We will drop the lowest MP score.  This usually results in MP 6 being done by 10% of the class, so to encourage you to show it some love there will be extra credit (to be announced) given if MP 6 is not the MP that gets dropped.
 
 ### Exams
 
@@ -71,7 +72,7 @@ There are three midterm exams.  These will all be proctored in the [[Computer Ba
 One week before an exam, we will provide a practice exam that follows the same format for your studying pleasure.
 
 Each exam will be broken into four or five *zones*.  Each zone represents a learning goal, and is waited equally in your grade report.
-(So a zone with 20 points and a zone with 10 points will both have the same weight as far as determining grades.)
+(So a zone with 20 points and a zone with 10 points will both have the same weight as far as determining grades.)  The zones may have a different number of questions.
 
 If you have accommodations identified by the division of rehabilitation-education services (DRES) for exams, please take your letter of accommodation (LOA) to the CBTF proctors in person before you make your first exam reservation. The proctors will advise you as to whether the CBTF provides your accommodations or whether you will need to make other arrangements with your instructor.
 
@@ -79,17 +80,21 @@ Any problem with testing in the CBTF must be reported to CBTF staff at the time 
 
 ### Final Exam
 
-The final will consist of retake opportunities of the midterm exams.  You may repeat any of the zones for another attempt to demonstrate your
+The final will consist of retake opportunities of the midterm exams.  You may repeat any of the questions you missed for another attempt to demonstrate your
 mastery of the material.
 
 ### 4th Hour Project
 
 If you are a graduate student taking the course for 4 hours, then you need to complete [a project](/docs/project/).  This project is worth 20% of the course grade for those who need to do it.  (The other percentages are adjusted down accordingly.)
 
+Details about the project are typically released in week 5, and involves writing a compiler.
+
 ### Late Policy / Missing Exams
 
-Late submissions are built into PrairieLearn.  For machine problems, you will
-have one week to turn it it for 80% credit. As we just mentioned, quizzes can be turned in up to the last day of class.
+Late submissions are built into PrairieLearn.  For after-class activities and machine problems you will have a one week auto-extension for 80% of the credit.
+
+If you miss an exam, please inform the instructor as soon as possible so arrangements can be made.  If you have made an appointment for an exam but realize you can't keep it, **please** delete your reservation from PrairieTest.  This frees up a slot for another
+student who may need it, and it enables you to reschedule yourself.  If you miss the appointment then you will need the CBTF or the instructor to delete the reservation for you.
 
 ### Code Efficiency
 
@@ -128,11 +133,12 @@ We will use the standard 10 point per letter grade scale.
 Undergraduates are encouraged to do the extra project as well.  It will not affect your grade, but it will give me something
 to say if you happen to want a letter of recommendation later.
 
+Note that we do not round up grades for any reason.  With a class this size, there will always be a plenty of students who are painfully close to the next cutoff.  (I have been the highest scorer on the wrong side of a cutoff more than once so I know how it feels.)
+
 ## Code of Conduct
 
 Our class (and life in general!) will work better if we maintain professionalism and respect for each other.  We expect
 courteous and respectful communication at all times, as well as a committment to integerity and honesty in your work.
-
 
 ## Academic Integrity
 

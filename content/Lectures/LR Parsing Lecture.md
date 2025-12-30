@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[March 13th, 2025]]
 ## Synopsis
 
 LR parsers have been the industry standard for quite some time.  The gnu C compiler

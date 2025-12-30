@@ -2,7 +2,6 @@
 tags: 
   - lecture
 ---
-Date:: [[January 21st, 2025]]
 
 ### Welcome to CS 421!
 

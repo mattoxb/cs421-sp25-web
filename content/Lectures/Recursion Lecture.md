@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[January 23rd, 2025]]
 
 ## Synopsis
 

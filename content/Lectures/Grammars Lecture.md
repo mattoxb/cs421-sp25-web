@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[March 4th, 2025]]
 ## Synopsis
 
 We have talked a lot at this point how to manipulate abstract syntax trees to interpret a

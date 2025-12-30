@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[February 6th, 2025]]
 ## Synopsis
 
 In order to be rigorous in our understanding of programming languages, it helps to be able to state precisely the meaning of a program.  The branch of mathematics dealing with this is called *semantics*.  There are many kinds of semantics.

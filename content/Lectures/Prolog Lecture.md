@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[April 15th, 2025]]
 ## Synopsis
 
 One of the strangest languages we will see in this course is <Sc>Prolog</Sc>.  It is

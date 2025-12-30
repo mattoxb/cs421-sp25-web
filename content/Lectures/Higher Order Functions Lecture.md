@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[January 30th, 2025]]
 ## Synopsis
 
 A higher order function allows you to pass a function as an

@@ -4,7 +4,6 @@ aliases: []
 tags:
   - lecture
 ---
-Date:: [[February 4th, 2025]]
 ## Synopsis
 
 Finally you get to write an interpreter!

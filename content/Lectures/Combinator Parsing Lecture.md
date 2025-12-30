@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[March 25th, 2025]]
 ## Synopsis
 
 We have seen a few different kinds of parsers to this point.  They all work by constructing

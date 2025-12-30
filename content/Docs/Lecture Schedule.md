@@ -11,36 +11,37 @@ Lecture capture will be on [MediaSpace](https://mediaspace.illinois.edu/channel/
 
 
 | Week | Date                    | Lecture                                |
-| ---- | ----------------------- | -------------------------------------- |
-| 1    | [[January 21st, 2025]]  | [[Course Introduction]]                |
-|      | [[January 23rd, 2025]]  | [[Recursion Lecture]]                  |
-| 2    | [[January 28th, 2025]]  | [[Algebraic Data Types Lecture]]       |
-|      | [[January 30th, 2025]]  | [[Higher Order Functions Lecture]]     |
-| 3    | [[February 4th, 2025]]  | [[Interpreters I Lecture]]             |
-|      | [[February 6th, 2025]]  | [[Big-Step Semantics Lecture]]         |
-| 4    | [[February 11th, 2025]] | [[Lambda Calculus Lecture]]            |
-|      | [[February 13th, 2025]] | [[Interpreters II Lecture]]            |
-| 5    | [[February 18th, 2025]] | [[Continuation Passing Style Lecture]] |
-|      | [[February 20th, 2025]] | [[Type Classes Lecture]]               |
-| 6    | [[February 25th, 2025]] | [[Monads Lecture]]                     |
-|      | [[February 27th, 2025]] | [[State Monad Lecture]]                |
-| 7    | [[March 4th, 2025]]     | [[Grammars Lecture]]                   |
-|      | [[March 6th, 2025]]     | [[Regular Languages Lecture]]          |
-| 8    | [[March 11th, 2025]]    | [[LL Parsing Lecture]]                 |
-|      | [[March 13th, 2025]]    | [[LR Parsing Lecture]]                 |
+|------|-------------------------|----------------------------------------|
+| 1    | January 20st, 2026  | [[Course Introduction]]                |
+|      | January 22rd, 2026  | [[Recursion Lecture]]                  |
+| 2    | January 27th, 2026  | [[Algebraic Data Types Lecture]]       |
+|      | January 29th, 2026  | [[Higher Order Functions Lecture]]     |
+| 3    | February 3th, 2026  | [[Interpreters I Lecture]]             |
+|      | February 5th, 2026  | [[Big-Step Semantics Lecture]]         |
+| 4    | February 10th, 2026 | [[Lambda Calculus Lecture]]            |
+|      | February 12th, 2026 | [[Interpreters II Lecture]]            |
+| 5    | February 17th, 2026 | [[Continuation Passing Style Lecture]] |
+|      | February 19th, 2026 | [[Type Classes Lecture]]               |
+| 6    | February 24th, 2026 | [[Monads Lecture]]                     |
+|      | February 26th, 2026 | [[State Monad Lecture]]                |
+| 7    | March 3th, 2026     | [[Grammars Lecture]]                   |
+|      | March 5th, 2026     | [[Regular Languages Lecture]]          |
+| 8    | March 10th, 2026    | [[LL Parsing Lecture]]                 |
+|      | March 12th, 2026    | [[LR Parsing Lecture]]                 |
 |      | **Spring Break**        | **No Class**                           |
-|      | [[March 18th, 2025]]    | **Spring Break**                       |
-|      | [[March 20th, 2025]]    | **Spring Break**                       |
-| 9    | [[March 25th, 2025]]    | [[Combinator Parsing Lecture]]         |
-|      | [[March 27th, 2025]]    | [[Small Step Semantics Lecture]]       |
-| 10   | [[April 1st, 2025]]     | [[Unification Lecture]]                |
-|      | [[April 3rd, 2025]]     | [[Hoare Semantics Lecture]]            |
-| 11   | [[April 8th, 2025]]     | [[Monotype Semantics Lecture]]]        |
-|      | [[April 10th, 2025]]    | [[Polytype Semantics Lecture]]         |
-| 12   | [[April 15th, 2025]]    | [[Prolog Lecture]]                     |
-|      | [[April 17th, 2025]]    | [[Prolog's Cut Operator Lecture]]      |
-| 13   | [[April 22nd, 2025]]    | **No class**                           |
-|      | [[April 24th, 2025]]    | [[Variables Lecture]]                  |
-| 14   | [[April 29th, 2025]]    | [[Macros Lecture]]                     |
-|      | [[May 1st, 2025]]       | **No Class**                           |
+|      | March 17th, 2026    | **Spring Break**                       |
+|      | March 19th, 2026    | **Spring Break**                       |
+| 9    | March 24th, 2026    | [[Combinator Parsing Lecture]]         |
+|      | March 26th, 2026    | [[Small Step Semantics Lecture]]       |
+| 10   | March 31st, 2026    | [[Unification Lecture]]                |
+|      | April 2rd, 2026     | [[Hoare Semantics Lecture]]            |
+| 11   | April 7th, 2026     | [[Monotype Semantics Lecture]]]        |
+|      | April 9th, 2026     | [[Polytype Semantics Lecture]]         |
+| 12   | April 14th, 2026    | [[Prolog Lecture]]                     |
+|      | April 16th, 2026    | [[Prolog's Cut Operator Lecture]]      |
+| 13   | April 21nd, 2026    | **No class**                           |
+|      | April 23th, 2026    | [[Variables Lecture]]                  |
+| 14   | April 28th, 2026    | [[Macros Lecture]]                     |
+|      | May 1st, 2026       | **No Class**  (Exam Retakes)           |
+| 15   | May 5st, 2026       | **No Class**  (Exam Retakes)           |
 

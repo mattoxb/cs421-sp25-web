@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[March 11th, 2025]]
 ## Synopsis
 
 Need a parser but don't have a lot of time?  Maybe a recursive-descent parser

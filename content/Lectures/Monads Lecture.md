@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[February 25th, 2025]]
 ## Synopsis
 
 Monads are a famous feature of the <Sc>Haskell</Sc> programming language, and

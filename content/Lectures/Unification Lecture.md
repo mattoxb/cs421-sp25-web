@@ -2,7 +2,6 @@
 tags:
   - lecture
 ---
-Date:: [[April 1st, 2025]]
 ## Synopsis
 
 Unification is a major technique in implementing and understanding programming languages.

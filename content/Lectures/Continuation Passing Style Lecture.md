@@ -3,7 +3,6 @@ tags:
  - lecture
 ---
 
-Date:: February 18th, 2025
 
 ## Synopsis
 
